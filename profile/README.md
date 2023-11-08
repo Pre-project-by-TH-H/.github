@@ -1,4 +1,4 @@
-<h1>Team Pre-project: web SQL for Education</h1>
+<h1>CEPP-SQL [Web SQL for Education]</h1>
 
 **Here are some ideas to get you started:**
 
